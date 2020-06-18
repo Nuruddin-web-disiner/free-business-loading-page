@@ -1,0 +1,250 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .banner-content h2 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .banner-content h5 {
+        font-size: 12px;
+    }
+
+    .btn-custom3 {
+        padding: 8px 15px;
+        font-size: 13px;
+        margin-left: 30px;
+    }
+
+
+    .form-tag input {
+        margin-left: 28px;
+    }
+
+    .about-content h2 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .about-content p {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .service-content h2 {
+        font-size: 26px;
+        font-weight: 700;
+        padding-bottom: 30px;
+    }
+
+    .service-content p {
+        font-size: 12px;
+        padding-bottom: 20px;
+        line-height: 27px;
+        width: 100%;
+    }
+
+    .discover-content h2 {
+        font-size: 15px;
+    }
+
+    .btn-custom2 {
+        padding: 12px 20px;
+        border-radius: 15px;
+        font-size: 9px;
+    }
+
+    .slide h4 {
+        font-size: 17px;
+        width: 100%;
+    }
+
+    .last-contant h4 {
+        font-size: 12px;
+    }
+
+    .form-control {
+        width: 50%;
+    }
+
+    .form-tag input {
+        margin-left: 130px;
+    }
+
+    .btn-custom3 {
+        margin-left: 130px;
+    }
+
+    .about-content p {
+        width: 60%;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .banner-content h2 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .banner-content h5 {
+        font-size: 12px;
+    }
+
+    .btn-custom3 {
+        padding: 8px 15px;
+        font-size: 13px;
+        margin-left: 30px;
+    }
+
+
+    .form-tag input {
+        margin-left: 28px;
+    }
+
+    .about-content h2 {
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .about-content p {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .service-content h2 {
+        font-size: 26px;
+        font-weight: 700;
+        padding-bottom: 30px;
+    }
+
+    .service-content p {
+        font-size: 12px;
+        padding-bottom: 20px;
+        line-height: 27px;
+        width: 100%;
+    }
+
+    .discover-content h2 {
+        font-size: 15px;
+    }
+
+    .btn-custom2 {
+        padding: 12px 20px;
+        border-radius: 15px;
+        font-size: 9px;
+    }
+
+    .slide h4 {
+        font-size: 17px;
+        width: 100%;
+    }
+
+    .last-contant h4 {
+        font-size: 12px;
+    }
+}
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner-content h2 {
+        font-size: 40px;
+        padding: 15px 0;
+    }
+
+    .banner-content h5 {
+        font-size: 16px;
+        padding: 5px 0;
+        margin-bottom: 40px;
+    }
+
+    .about-content h2 {
+        font-size: 14px;
+        font-weight: 700;
+        margin: 5px;
+    }
+
+    .about-content p {
+        font-size: 12px;
+        margin: 5px;
+        width: 95%;
+    }
+
+    .service-content h2 {
+        font-size: 37px;
+        padding-bottom: 35px;
+    }
+
+    .service-content p {
+        font-size: 14px;
+        padding-bottom: 30px;
+        width: 105%;
+    }
+
+    .discover-content h2 {
+        font-size: 22px;
+    }
+
+    .btn-custom2 {
+        padding: 10px 24px;
+        border-radius: 17px;
+        font-size: 15px;
+    }
+
+    .slide h4 {
+        font-size: 19px;
+        width: 95%;
+    }
+
+
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .menu ul li a {
+        font-size: 13px;
+    }
+
+    .menu ul li {
+        padding: 0 10px;
+    }
+
+    .banner-content h2 {
+        font-size: 50px;
+    }
+
+    .form-tag input {
+        margin-left: 25px;
+    }
+
+    .btn-custom3 {
+        margin-left: 25px;
+    }
+
+    .p-tag p {
+        padding-left: 12px;
+        padding-top: 35px;
+        font-size: 11px;
+    }
+
+    .about-content h2 {
+        font-size: 16px;
+        margin: 7px;
+    }
+
+    .service-content h2 {
+        font-size: 40px;
+    }
+
+
+    .discover-content h2 {
+        font-size: 26px;
+    }
+
+
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
